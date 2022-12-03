@@ -1,0 +1,2 @@
+username|auth-token
+username2|auth-token
